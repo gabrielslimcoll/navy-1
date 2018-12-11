@@ -1,4 +1,4 @@
-# Build your own Navy - by ship type
+# Build your own Navy (by ship type)
 ![](screenshots/navygraphic.png "")
 Each year, the Navy releases its 30-year shipbuilding plan. This document separates Navy ships into nine categories (CVN, LSC, SSC, SSN, SSGN, SSBN, AWS, CLF, and support vessels). For each of the categories, the Navy projects how many ships it will procure and how many ships it will have in its inventory each year. The plan does not include acquisition costs or operations and support (O&S) costs for each category. However, acquisition and O&S cost data is available elsewhere. <br/>
 
