@@ -1,4 +1,5 @@
 # navy-1
+![](screenshots/navygraphic.png "")
 ![](screenshots/fundingchange.png "")
 ![](screenshots/inventoryline.png "")
 ![](screenshots/fundingtotal.png "")
