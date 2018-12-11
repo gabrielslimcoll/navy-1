@@ -1,4 +1,5 @@
-# navy-1
+# Build your own Navy - by ship type
+![](screenshots/navygraphic.png "")
 Each year, the Navy releases its 30-year shipbuilding plan. This document separates Navy ships into nine categories (CVN, LSC, SSC, SSN, SSGN, SSBN, AWS, CLF, and support vessels). For each of the categories, the Navy projects how many ships it will procure and how many ships it will have in its inventory each year. The plan does not include acquisition costs or operations and support (O&S) costs for each category. However, acquisition and O&S cost data is available elsewhere. <br/><br/>
 
 This app adopts the structure of the 30-year shipbuilding plan and integrates Navy budget data. Each of the Navy's ship categories displays an independent slider that allows the user to adjust the quantity of that category. [Amphibious warfare ships are separated into three categories (LHD/LHA, LPD, and LSD/LXR); SSGN and SSBN are consolidated into one category] <br/><br/>
@@ -13,9 +14,7 @@ The Trump administration's ambitious plan to reach a 355-ship Navy coupled with 
 
 The purpose of this app is to create a transparent and interpretable analytic model of the Navy's force structure that is easy to use. The model accounts for the key factors that all recommendations should consider: the Navy's current procurement plan, its current inventory plan, unit acquisition cost, unit O&S cost, and capacity constraints. <br/><br/>
 
-There are, of course, factors that this model does not account for (such as the ability to change shipyard capacity, to develop entirely new ship classes, and to account for economies of scale or research and development costs). We have examined these challenges in subsequent research.<br/><br/> 
-
-![](screenshots/navygraphic.png "")
+There are, of course, factors that this model does not account for (such as the ability to change shipyard capacity, to develop entirely new ship classes, and to account for economies of scale or research and development costs). We have examined these challenges in subsequent research.<br/><br/>
 ![](screenshots/fundingchange.png "")
 ![](screenshots/inventoryline.png "")
 ![](screenshots/fundingtotal.png "")
