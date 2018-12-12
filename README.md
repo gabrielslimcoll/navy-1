@@ -19,6 +19,3 @@ There are, of course, factors that this model does not account for (such as the 
 ![](screenshots/inventoryline.png "")
 ![](screenshots/fundingtotal.png "")
 ![](screenshots/inventoryarea.png "")
-![](screenshots/sliders.png "")
-![](screenshots/lha.png "")
-![](screenshots/ssn.png "")
