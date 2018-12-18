@@ -1,5 +1,8 @@
 # Build your own Navy (by ship type)
 ![](screenshots/navygraphic.png "")
+<p align="center">
+  <b>
+  <a href="http://analytics.csis.org/navy-/">View the app on analytics.csis.org</a></b><p/> 
 Each year, the Navy releases its 30-year shipbuilding plan. This document separates Navy ships into nine categories (CVN, LSC, SSC, SSN, SSGN, SSBN, AWS, CLF, and support vessels). For each of the categories, the Navy projects how many ships it will procure and how many ships it will have in its inventory each year. The plan does not include acquisition costs or operations and support (O&S) costs for each category. However, acquisition and O&S cost data is available elsewhere. <br/>
 
 This app adopts the structure of the 30-year shipbuilding plan and integrates Navy budget data. Each of the Navy's ship categories displays an independent slider that allows the user to adjust the quantity of that category. [Amphibious warfare ships are separated into three categories (LHD/LHA, LPD, and LSD/LXR); SSGN and SSBN are consolidated into one category] <br/>
